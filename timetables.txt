@@ -1,0 +1,4 @@
+10,Monday,1,C001
+10,Monday,2,C003
+9,Tuesday,1,C002
+10,Wednesday,3,C004
