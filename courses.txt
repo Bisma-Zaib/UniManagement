@@ -1,4 +1,4 @@
-C001,Algebra,10,Mathematics,T001
-C002,English Literature,9,English,T002
-C003,Physics,10,Science,T003
-C004,World History,10,History,T004
+CS101,Data Structures,Computer Science,300,F001
+CS102,Maths,maths,301,F002
+CS103,Literature,English,302,F003
+CS104,Science,Physics,303,F004
