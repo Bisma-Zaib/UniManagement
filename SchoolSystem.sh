@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # === File Paths ===
-STUDENTS_FILE="students.txt"
-TEACHERS_FILE="teachers.txt"
+STUDENTS_FILE="university_students.txt"
+FACULTY_FILE="faculty.txt"
 COURSES_FILE="courses.txt"
 ATTENDANCE_FILE_PREFIX="attendance_"
 GRADES_FILE="grades.txt"
@@ -17,7 +17,7 @@ pause() {
 header() {
   clear
   echo "========================="
-  echo "SmartEduCLI - School System"
+  echo "UniManageCLI - University System"
   echo "========================="
 }
 
@@ -214,5 +214,5 @@ while true; do
   esac
   pause
   clear
-  done
+done
 
