@@ -1,0 +1,4 @@
+U001,John Doe,Computer Science,Senior,9876543210,johndoe@uni.edu
+U002,Danziel Die,Science,Senior,9876753210,danziel@uni.edu
+U003,Fraeny Joe,Physics ,Senior,9874543210,franjoe@uni.edu
+U004,Henry McKenzie,Computer Science,Senior,9416543210,henry@uni.edu
